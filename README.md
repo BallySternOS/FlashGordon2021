@@ -1,9 +1,9 @@
 # Flash Gordon 2021
-# BSOS Board Revision 3 w/ Arduino Mega 2560
-# Version 1.0.0
-Re-imagined rules for Bally's 1981 Flash Gordon pinball machine. Based on the Bally/Stern Operating System, and implemented by adding a daughter card to the MPU's J5 connector. Refer to the PDF or Wiki here for instructions on how to build the hardware: https://github.com/BallySternOS.
+## BSOS Board Revision 3 w/ Arduino Mega 2560
+## Version 1.0.0
+Re-imagined rules for Bally's 1981 Flash Gordon pinball machine. Based on the Bally/Stern Operating System, and implemented by adding a daughter card to the MPU's J5 connector. Refer to the hardware build instructions here: https://ballysternos.github.io/.
 
-If you are looking for the Arduino Nano version of the code, see here: .
+If you are looking for the Arduino Nano version of the code, see here: https://github.com/tmurren/bsos-flash-gordon-2021.
 
 ### To use this code
 * Download this zip file (Code > Download ZIP) or clone the repository to your hard drive.

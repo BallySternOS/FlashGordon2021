@@ -13,9 +13,9 @@ If you are looking for the Arduino Nano version of the code, see here: https://g
 * Open FG2021.ino in your FG2021 folder with Arduino's IDE and upload to microcontroller: Board - Arduino Mega or Mega 2560, Processor - ATmega2560 (Mega 2560), Programmer - ArduinoISP
 
 ### Operator game adjustments
-This section at the top of the FG2021.ino file groups some variables that the operator may want to adjust, including difficutly settings like balls per game, wizard mode drop target goal, and wizard mode attack power goal.
+This section at the top of the FG2021.ino file groups some variables that the operator may want to adjust, including difficulty settings like balls per game, wizard mode drop target goal, and wizard mode attack power goal.
 
-### Ajustments on first startup
+### Adjustments on first startup
 Score award thresholds to award replays can be set in self test / audit (may have defaulted to zero)
 
 ### How to operate self test / audit
@@ -45,4 +45,4 @@ Latest Update v1.0.0 (10/21/21):
 - Added audit for how many times the high score has been beat
 - Added total replays to self test / audit
 - Added score award thresholds to give credits that are adjustable in machine self test / audit
-- Added current credits that are ajustable in machine self test / audit
+- Added current credits that are adjustable in machine self test / audit
